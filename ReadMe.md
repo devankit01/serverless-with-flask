@@ -1,4 +1,4 @@
-# serverless-with-django
+# serverless-with-flask
 
 Integrating Flask Web Application with AWS Serverless and Deploying ✨
 
